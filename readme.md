@@ -2,7 +2,7 @@
 
 ## Overview
 
-Official frontend repo of [beefy.finance](https://app.beefy.finance). Multichain yield farming optimizer.
+Official frontend repo of [http://pool.babywolfcoin.com](https://app.beefy.finance). Multichain yield farming optimizer.
 
 ## Env
 
