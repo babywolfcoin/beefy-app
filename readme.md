@@ -1,4 +1,4 @@
-# Beefy Finance (\$BIFI)
+# (Wolf Finance)
 
 ## Overview
 
