@@ -36,7 +36,7 @@ const Header = ({ links, isNightMode, setNightMode }) => {
               height={'40px'}
               className={classes.logo}
             />
-            beefy.finance
+            Wolf Finance
           </Hidden>
           <Hidden smUp>
             <img
@@ -134,7 +134,7 @@ const LinkSidebar = ({ name, label, icon, classes }) => (
 );
 
 const getLinkUrl = name => {
-  return name === 'buy' ? getNetworkBuyUrl() : `https://${name}.beefy.finance`;
+  return name === 'buy' ? getNetworkBuyUrl() : `https://${name}.babywolfcoin.com`;
 };
 
 export default Header;

@@ -58,7 +58,7 @@ const Footer = () => {
         </a>
 
         <a
-          href="https://vote.beefy.finance"
+          href="https://vote.babywolfcoin.com"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.link}
@@ -68,7 +68,7 @@ const Footer = () => {
         </a>
 
         <a
-          href="https://app.beefy.finance"
+          href="https://pool.babywolfcoin.com"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.link}
@@ -111,7 +111,7 @@ const Footer = () => {
         </a>
       </div>
      </div>
-    </div>
+
   );
 };
 
