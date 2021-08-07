@@ -13,7 +13,7 @@ const Footer = () => {
   return (
     <div className={classes.root}>
       <div className={classes.column}>
-        <div className={classes.title}>Wolf Finance/div>
+        <div className={classes.title}>Wolf.Finance/div>
         <a
           href="https://docs.babywolfcoin.com"
           target="_blank"
