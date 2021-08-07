@@ -110,7 +110,6 @@ const Footer = () => {
           <span>discord</span>
         </a>
       </div>
-    </div>
   );
 };
 
